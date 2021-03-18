@@ -1,1 +1,10 @@
 this is sample file writing code from issue1
+
+this is another line added from master to check conlict(master)
+
+this is third line added from issue1  swicthing user from masters to issue1 using switch command lets check what happening if we move to masters
+
+this is fourth line added from master  swicthing user from masters to issue1 using switch command lets check what happening if we move to issue1
+
+added final line to see conflict(issue1)
+
