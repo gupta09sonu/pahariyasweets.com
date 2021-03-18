@@ -1,3 +1,4 @@
 this is sample file writing code from issue1
 
+<<<<<<< HEAD
 this is the conflict check code
