@@ -1,2 +1,0 @@
-# pahariyasweets.com
-pahariya stores
